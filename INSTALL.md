@@ -18,7 +18,7 @@ Download the [`Dracula.vstheme`](./Dracula.vstheme) file directly, or use the [G
 
 1. Open your mRemoteNG installation folder;
 2. Locate the `Themes` subfolder:
-   - Installed version: `%PROGRAMFILES%\mRemoteNG\Themes`
+   - Installed version: `%ProgramFiles(x86)%\mRemoteNG\Themes`
    - Portable version: `<mRemoteNG folder>\Themes`
 
 ##### Step 2: Copy the theme file
