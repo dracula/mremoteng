@@ -2,16 +2,11 @@
 
 > A dark theme for [mRemoteNG](https://mremoteng.org/).
 
-<p align="center">
-  <img src="./images/screenshot.png" alt="Dracula for mRemoteNG Preview" width="800">
-</p>
-<p align="center">
-  <sub>Interface preview of mRemoteNG with the Dracula theme applied</sub>
-</p>
+![Dracula for mRemoteNG Preview](./images/screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/mremoteng](https://draculatheme.com/mremoteng) or [INSTALL](./INSTALL.md).
+All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/mremoteng).
 
 ## Team
 
@@ -26,6 +21,10 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 - [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
 - [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
 - [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
+
+## Dracula PRO
+
+[![Dracula PRO](./.github/dracula-pro.png)](https://draculatheme.com/pro)
 
 ## License
 
