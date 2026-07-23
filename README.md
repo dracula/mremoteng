@@ -2,7 +2,7 @@
 
 > A dark theme for [mRemoteNG](https://mremoteng.org/).
 
-![Dracula for mRemoteNG Preview](./images/screenshot.png)
+![Dracula for mRemoteNG Preview](./screenshot.png)
 
 ## Install
 
